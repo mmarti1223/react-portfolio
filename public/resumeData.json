@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name":"Marcos Marti",
+    "occupation":"Director Information Technology",
+    "description":"I have 15 years of IT experience ranging from server management to front-end development",
+    "image":"profilepic-mm.jpg",
+    "bio":"As you my have guessed I'm Miami based but I consider myself a world traveler. I have a passion for technology and I never say no to a new challenge. Currently I work for a Miami based development company that has project ranging from Affordable Housing to Luxury High rises.",
+    "contactmessage":"Let's keep in touch",
+    "email": "marcos.marti12@gmail.com",
+    "phone": "954-850-8040",
+    "address":{
+      "city":"Miami",
+      "state":"Florida"
+        },
+    "website": "https://marcos-marti.herokuapp.com/",
+    "resumedownload":"https://drive.google.com/file/d/1YgmyVS-IiGOM2-1WYhTb-w-Q_RbfFIVO/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/marcosricardomarti",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/marcos-marti-0644a263/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/mr.m_____/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/mmarti1223",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"mmarti1223",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I have a wide range of skilled that helps me manage teams to there full potential.",
+    "education":[
+      {
+        "school":"Miami Dade College",
+        "degree":"Financial Systems Development",
+        "graduated":"TBA",
+        "description":"Specialized Degree with concentration in Financial Systems"
+      },
+      {
+        "school":"University of Miami - Triology",
+        "degree":"Full-Stack Web Development Bootcamp",
+        "graduated":"June 2020",
+        "description":"Full-Stack Web Development Bootcamp"
+      }
+    ],
+    "work":[
+      {
+        "company":"Related Group",
+        "title":"Director of Technology",
+        "years":"July 2018 - Present"
+      },
+      {
+        "company":"Turnberry Associates",
+        "title":"IT Manager",
+        "years":"May 2017 - July 2018"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"IT Management",
+        "level":"85%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"SQL",
+        "level":"90%"
+      },
+      {
+        "name":"Office 365",
+        "level":"90%"
+      },
+      {
+        "name":"Project Management",
+        "level":"80%"
+      },
+      {
+        "name":"Digital Marketing",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"GROUP PROJECT 1",
+        "category":"Simple App to query Google Books API to search titles",
+        "image":"cabin.png",
+        "url":"https://omiinaya.github.io/Project1/"
+      },
+      {
+        "title":"WEATHER APP",
+        "category":"Simple App Querying Weather API",
+        "image":"cake.png",
+        "url":"https://mmarti1223.github.io/weatherApp/"
+      },
+      {
+        "title":"FIRST HEROKU APP",
+        "category":"Simple Node.js App Published on Heroku",
+        "image":"circus.png",
+        "url":"https://burgerboys.herokuapp.com/burgers"
+      },
+      {
+        "title":"GROUP PROJECT 2",
+        "category":"COVID-19 Employee Work Location Tracker and DB",
+        "image":"safe.png",
+        "url":"https://employee-tracker-covid19.herokuapp.com/"
+      },
+      {
+        "title":"Employee Database",
+        "category":"React Employee Database Reader with Search",
+        "image":"submarine.png",
+        "url":"https://mm-emp-dir.herokuapp.com/"
+      },
+      {
+        "title":"Employee Tracking System",
+        "category":"Node JS Employee Database",
+        "image":"game.png",
+        "url":"https://github.com/mmarti1223/employerDB"
+      }
+    ]
+  }
+}
